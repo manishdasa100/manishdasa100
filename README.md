@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manishdasa100
+- 👋 Hi, I’m Manish Das
 - 👀 I’m interested in building software products
 - 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on any good idea
