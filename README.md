@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Manish Das
-- 👀 I’m interested in building software products
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on any good idea
-- 📫 Why not we [connect](https://www.linkedin.com/in/manish-das-6a7360191/)? 
+- 👋 Hi there, I’m Manish 
+- 👀 Interested in building software products
+- 🌱 Currently working on enhancing my backend dev knowledge
+- 👻 Implementing ideas with Spring Boot
+- 💞️ Looking to collaborate on good ideas
+- 📫 You can connect with me through [LinkedIn](https://www.linkedin.com/in/manish-das-6a7360191/)
+
+Thanks for stopping by! Feel free to explore my repositories and drop a ⭐ if you find something interesting.
 
 <!---
 manishdasa100/manishdasa100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
